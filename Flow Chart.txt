@@ -1,0 +1,10 @@
+1 Dispatch at App.js
+2 Action
+3 make type  in action
+4 then Check Out type in reducer
+5 use useSelector for selcting state
+
+1 Dispatch
+2 Action
+3 Reducer
+4 Use Selector
